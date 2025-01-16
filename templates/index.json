@@ -15,7 +15,7 @@
         "featured_collection_3GgTYw": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "frontpage"
           }
         }
       },
