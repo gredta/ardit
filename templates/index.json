@@ -9,55 +9,25 @@
  */
 {
   "sections": {
-    "video_banner_qJF89r": {
-      "type": "video-banner",
-      "blocks": {
-        "text_C9WKJk": {
-          "type": "text",
-          "settings": {
-            "text": "",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "text_C9WKJk"
-      ],
-      "settings": {
-        "video_url": "https://cdn.shopify.com/videos/c/o/v/3561dc04ff194f8386fcb32c36b649ee.mov",
-        "desktop_content_position": "bottom-left",
-        "show_text_box": false,
-        "desktop_content_alignment": "left",
-        "color_scheme": "scheme-3",
-        "mobile_content_alignment": "left"
-      }
-    },
     "collection_list_Jcig38": {
       "type": "collection-list",
       "blocks": {
-        "featured_collection_jbXBUP": {
+        "featured_collection_3GgTYw": {
           "type": "featured_collection",
           "settings": {
-            "collection": "cuba-at-midnight-capsule"
-          }
-        },
-        "featured_collection_kzedAJ": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "accessories"
+            "collection": "frontpage"
           }
         }
       },
       "block_order": [
-        "featured_collection_jbXBUP",
-        "featured_collection_kzedAJ"
+        "featured_collection_3GgTYw"
       ],
       "settings": {
         "title": "",
         "heading_size": "h2",
         "image_ratio": "portrait",
         "columns_desktop": 2,
-        "color_scheme": "",
+        "color_scheme": "scheme-1",
         "show_view_all": true,
         "columns_mobile": "1",
         "swipe_on_mobile": false,
@@ -67,7 +37,6 @@
     }
   },
   "order": [
-    "video_banner_qJF89r",
     "collection_list_Jcig38"
   ]
 }
