@@ -1,17 +1,17 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "current": {
-    "logo": "shopify:\/\/shop_images\/Screenshot_2024-08-16_at_3.25.25_PM.png",
+    "logo": "shopify://shop_images/Screenshot_2024-08-16_at_3.25.25_PM.png",
     "logo_width": 150,
-    "favicon": "shopify:\/\/shop_images\/IMG_3330_86aed9ef-8558-49bd-954e-02210e3ef311.png",
+    "favicon": "shopify://shop_images/IMG_3330_86aed9ef-8558-49bd-954e-02210e3ef311.png",
     "type_header_font": "times_new_roman_n4",
     "heading_scale": 100,
     "type_body_font": "times_new_roman_n4",
@@ -137,17 +137,7 @@
         }
       }
     },
-    "content_for_index": [
-
-    ],
-    "blocks": {
-      "6986766168588894248": {
-        "type": "shopify:\/\/apps\/preorder-now-wolf\/blocks\/app-embed\/7ee1d740-e67b-4ea8-b0c9-1f62cb8777ec",
-        "disabled": false,
-        "settings": {
-        }
-      }
-    },
+    "content_for_index": [],
     "color_schemes": {
       "scheme-1": {
         "settings": {
@@ -201,6 +191,17 @@
           "button": "#ffffff",
           "button_label": "#334fb4",
           "secondary_button_label": "#ffffff",
+          "shadow": "#121212"
+        }
+      },
+      "scheme-fc990d3f-9083-4e6c-b18f-603596928482": {
+        "settings": {
+          "background": "#ffffff",
+          "background_gradient": "",
+          "text": "#121212",
+          "button": "#121212",
+          "button_label": "#ffffff",
+          "secondary_button_label": "#121212",
           "shadow": "#121212"
         }
       }
